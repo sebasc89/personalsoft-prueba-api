@@ -1,0 +1,12 @@
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Infrastructure\bin\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.deps.json
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Infrastructure\bin\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.dll
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Infrastructure\bin\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.pdb
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Infrastructure\obj\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Infrastructure\obj\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Infrastructure\obj\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Infrastructure\obj\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Infrastructure\obj\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Infrastructure\obj\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.dll
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Infrastructure\obj\Debug\net6.0\refint\PersonalSoft.Prueba.Infrastructure.dll
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Infrastructure\obj\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.pdb
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Infrastructure\obj\Debug\net6.0\ref\PersonalSoft.Prueba.Infrastructure.dll

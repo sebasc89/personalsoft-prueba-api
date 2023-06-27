@@ -1,0 +1,17 @@
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\bin\Debug\net6.0\PersonalSoft.Prueba.Domain.deps.json
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\bin\Debug\net6.0\PersonalSoft.Prueba.Domain.dll
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\bin\Debug\net6.0\PersonalSoft.Prueba.Domain.pdb
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\bin\Debug\net6.0\PersonalSoft.Prueba.Common.dll
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\bin\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.dll
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\bin\Debug\net6.0\PersonalSoft.Prueba.Common.pdb
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\bin\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.pdb
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\obj\Debug\net6.0\PersonalSoft.Prueba.Domain.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\obj\Debug\net6.0\PersonalSoft.Prueba.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\obj\Debug\net6.0\PersonalSoft.Prueba.Domain.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\obj\Debug\net6.0\PersonalSoft.Prueba.Domain.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\obj\Debug\net6.0\PersonalSoft.Prueba.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\obj\Debug\net6.0\PersonalSoft.Prueba.Domain.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\obj\Debug\net6.0\PersonalSoft.Prueba.Domain.dll
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\obj\Debug\net6.0\refint\PersonalSoft.Prueba.Domain.dll
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\obj\Debug\net6.0\PersonalSoft.Prueba.Domain.pdb
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Domain\obj\Debug\net6.0\ref\PersonalSoft.Prueba.Domain.dll

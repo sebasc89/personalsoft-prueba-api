@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\bin\Debug\net6.0\PersonalSoft.Prueba.Common.deps.json
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\bin\Debug\net6.0\PersonalSoft.Prueba.Common.dll
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\bin\Debug\net6.0\PersonalSoft.Prueba.Common.pdb
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\bin\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.dll
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\bin\Debug\net6.0\PersonalSoft.Prueba.Infrastructure.pdb
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\obj\Debug\net6.0\PersonalSoft.Prueba.Common.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\obj\Debug\net6.0\PersonalSoft.Prueba.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\obj\Debug\net6.0\PersonalSoft.Prueba.Common.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\obj\Debug\net6.0\PersonalSoft.Prueba.Common.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\obj\Debug\net6.0\PersonalSoft.Prueba.Common.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\obj\Debug\net6.0\PersonalSoft.Prueba.Common.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\obj\Debug\net6.0\PersonalSoft.Prueba.Common.dll
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\obj\Debug\net6.0\refint\PersonalSoft.Prueba.Common.dll
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\obj\Debug\net6.0\PersonalSoft.Prueba.Common.pdb
+C:\Users\USUARIO\source\repos\PersonalSoft.Prueba\PersonalSoft.Prueba.Common\obj\Debug\net6.0\ref\PersonalSoft.Prueba.Common.dll
